@@ -1,0 +1,25 @@
+#- title: "About"
+#  href: "/about/"
+
+- title: "Teaching"
+  href: "/teaching/"
+
+#- title: "Blog"
+#  href: "/blog/"
+
+- title: "Research"
+  href: "/research/"
+  subcategories:
+    - subtitle: "Refereed Publications"
+      subhref: "/research/articles/"
+    - subtitle: "Conference Proceedings"
+      subhref: "/research/conferences/"
+    - subtitle: "Popular Press & Seminars"
+      subhref: "/research/press/"
+#    - subtitle: "Seminars"
+#      subhref: "/research/seminars/"
+#    - subtitle: "Others"
+#      subhref: "/research/others/"
+
+- title: "Links"
+  href: "/links/"
