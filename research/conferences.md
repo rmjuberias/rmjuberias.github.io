@@ -4,6 +4,20 @@ title: Conference Proceedings
 permalink: /research/conferences/
 ---
 
+0. Johnson P., R. Morales-Juberías, A. A. Simon, M. H. Wong, J. Tollefson (2016). Investigating Wave Structures in Jupiter's Atmosphere using HST Images. DPS \#48 / EPSC \#11, \#421.01
+
+0. Cosentino R. G., R. Morales-Juberías, T. Greathouse, G.S Orton (2016). Modeling Jupiter’s Quasi Quadrennial Oscillation (QQO) with Wave Drag Parameterizations. DPS \#48 / EPSC \#11, \#501.06D
+
+0. Greathouse T.K., G.S. Orton, R. Morales-Juberías, L.N. Fletcher, C.N. DeWitt, R. Consentino, R. Giles, H. Melin, T. Encrenaz, T. Fouchet (2016). Tracking Jupiter's Quasi-Quadrennial Oscillation and Mid-Latitude Zonal Waves with High Spectral Resolution Mid-Infrared Observations. DPS meeting \#48 / EPSC \#11, \#501.05
+
+0. Wong M. H., J. Tollefson, A. A. Simon, R. Cosentino, I. de Pater, P. Marcus, G. S. Orton, R. Morales-Juberías (2016). Jupiter's Global Winds in Advance of the Juno Encounters. DPS meeting \#48 / EPSC \#11, \#501.07\\
+
+0. Cosentino R., B. Butler, B. Sault, R. Morales-Juberías, A. Simon (2015). The search for atmospheric waves below the clouds of Jupiter using radio wavelength observations. DPS meeting \#47, \#311.20
+
+0. Sayanagi K. M, R. Morales-Juberías, J. J. Blalock, R. G. Cosentino, A. P. Ingersoll, S. P. Ewald, and U. A. Dyudina (2015). Effect of the 77 degree N Jet on Saturn’s Hexagon Cloud Morphology. DPS meeting \#47, \#311.18 
+
+0. Greathouse, T. K.; Orton, G. S.; Morales-Juberías, R.; Fletcher, L. N.; DeWitt, C. N.; Cosentino, R.; Richter, M. J.; Lacy, J. H. (2014) Tracking Jupiter's Quasi-Quadrennial Oscillation and Mid-Latitude Zonal Waves: Initial Results. American Astronomical Society, DPS meeting \#46, \#422.06
+
 0. Sayanagi, K. M.; Ingersoll, A. P.; Ewald, S.; Dyudina, U.; Blalock, J. J. J.; Morales-Juberias, R.; Cosentino, R.; Simon, A. A. Cassini ISS Update on Seasonally Evolving Northern Hemisphere, and a new Hexagon Model. American Geophysical Union, Fall Meeting 2014, abstract #P21E-05
 
 0. Morales-Juberias, Raul; Sayanagi, Kunio M.; Cosentino, Richard E.; Simon, Amy A. (2014) Numerical Modeling of Saturn's Northern Hexagon as a Meandering Shallow Jet. American Astronomical Society, DPS meeting 46, 422.22

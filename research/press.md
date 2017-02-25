@@ -17,6 +17,12 @@ permalink: /research/press/
 
 <h1> Seminars </h1>
 
+0. Jupiter and the Great Red Spot <br> Jupiter Festival. New Mexico Tech. (3/8/2016)
+
+0. Numerical Modeling of Saturn's Northern Hexagon as a Meandering Shallow Jet.<br> NRAO Colloquium Series. (10/9/2015)
+
+0. Jupiter & Saturn Atmospheres: Broad Review and Various Science Cases. <br> JIVE Kickoff Meeting, Las Cruces, NM. (12/16/2014)
+
 0. "Saturn’s North Polar Hexagon Numerical Modeling Results”<br> NMT Physics Dept. Colloquium. (4/23/2009)
 
 0. “Low-Cost High-Performance Linux Engine for Atmospheric Research” <br> New Mexico Museum of Natural History and Science “Start-Up” Exhibit. (11/18/2006)
