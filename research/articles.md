@@ -8,7 +8,7 @@ permalink: /research/articles/
 
 0. Cosentino R.G., B. Butler, B. Sault, R. Morales-Juberías, A. Simon, I. de Pater (2017). Atmospheric waves and dynamics beneath Jupiters clouds from radio wavelength observations. Icarus In Press.
 
-0. Simon, Amy A.; Rowe, Jason F.; Gaulme, Patrick; Hammel, Heidi B.; Casewell, Sarah L.; Fortney, Jonathan J.; Gizis, John E.; Lissauer, Jack J.; Morales-Juberías, Raul; Orton, Glenn S.; Wong, Michael H.; Marley, Mark S. 2016. Neptune's Dynamic Atmosphere from Kepler K2 Observations: Implications for Brown Dwarf Light Curve Analyses. The Astrophysical Journal, Volume 817, 162, 10pp
+0. Simon, A. A.; Rowe, J. F.; Gaulme, P.; Hammel, H. B.; Casewell, S. L.; Fortney, J. J.; Gizis, J. E.; Lissauer, J. J.; Morales-Juberías, R.; Orton, G. S.; Wong, M. H.; Marley, M. S. 2016. Neptune's Dynamic Atmosphere from Kepler K2 Observations: Implications for Brown Dwarf Light Curve Analyses. The Astrophysical Journal, Volume 817, 162, 10pp
 
 0. Cosentino, R.G., A.A. Simon, R. Morales-Juberías, K. Sayanagi (2015).  Observations and Numerical Modeling of the Jovian Ribbon. The Astrophysical Journal Letters, Volume 810, Issue 1, L10, 6 pp.
 
