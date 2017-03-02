@@ -12,7 +12,7 @@ permalink: /research/articles/
 
 0. Cosentino, R.G., A.A. Simon, R. Morales-Juberías, K. Sayanagi (2015).  **Observations and Numerical Modeling of the Jovian Ribbon.** *The Astrophysical Journal Letters*, Volume 810, Issue 1, L10, 6 pp.
 
-0. Morales-Juberías, R., K. M. Sayanagi , A. A. Simon, L.N. Fletcher,  R. G. Cosentino (2015). **Meandering Shallow Atmospheric Jet as a Model of Saturn's North-polar Hexagon.** *The Astrophysical Journal Letters*, Volume 806, Issue 1, L18, 6 pp. AAS NOVA Research Highlight
+0. Morales-Juberías, R., K. M. Sayanagi , A. A. Simon, L.N. Fletcher,  R. G. Cosentino (2015). **Meandering Shallow Atmospheric Jet as a Model of Saturn's North-polar Hexagon.** *The Astrophysical Journal Letters*, Volume 806, Issue 1, L18, 6 pp. <a href="http://aasnova.org/2015/08/21/an-explanation-for-saturns-hexagon/" target="_blank">AAS NOVA</a> Research Highlight
 
 0. Liming, L.; R. K. Achterberg, B. J. Conrath, P. J. Gierasch, M. A. Smith, A. Simon, C. A. Nixon, G. S. Orton, M. F. Flasar, X. Jiang, K. H. Baines, R. Morales-Juberías, A. P. Ingersoll, A. R. Vasavada, A. D. Del Genio, R. A. West, Robert,  S. P. Ewald (2014). **Strong Temporal Variation Over One Saturnian Year: From Voyager to Cassini.** *Nature Scientific Reports*, Volume 3, id. 2410.
 
