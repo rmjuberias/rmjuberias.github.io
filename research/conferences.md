@@ -4,6 +4,14 @@ title: Conference Proceedings
 permalink: /research/conferences/
 ---
 
+0. Cosentino, R. G., A. A. Simon, R. Morales-Juberías (2018). Turbulent Cloud Structure and Power Spectrum from 23 years of HST Observations. American Astronomical Society Meeting Abstracts \#231 231, \#144.06. 
+
+0. Cosentino R. G. ,A. A. Simon, T. K. Greathouse, L. Fletcher, R. Morales-Juberías, G.S. Orton, P. Johnson (2017). Statistical Estimation of Properties and Variations in Jupiter's Stratospheric Oscillation. AAS/Division for Planetary Sciences Meeting Abstracts \#49 49, 115.05. 
+
+0. Greathouse T. K., G. Orton, R. G. Cosentino, R. Morales-Juberías, R. Giles (2017). High-Resolution Observations of Jupiter's QQO and Mid-Latitude Waves via TEXES/Gemini North Observations. AAS/Division for Planetary Sciences Meeting Abstracts \#49 49, 115.04.
+
+0. Wong M. H., J. Tollefson, A. A. Simon, R. G. Cosentino, I. de Pater, P. Marcus, G.S. Orton, R. Morales-Juberías, P. Johnson (2016). Jupiter's Global Winds in Advance of the Juno Encounters. AAS/Division for Planetary Sciences Meeting Abstracts \#48 48, 501.07. 
+
 0. Johnson P., R. Morales-Juberías, A. A. Simon, M. H. Wong, J. Tollefson (2016). Investigating Wave Structures in Jupiter's Atmosphere using HST Images. DPS \#48 / EPSC \#11, \#421.01
 
 0. Cosentino R. G., R. Morales-Juberías, T. Greathouse, G.S Orton (2016). Modeling Jupiter’s Quasi Quadrennial Oscillation (QQO) with Wave Drag Parameterizations. DPS \#48 / EPSC \#11, \#501.06D
