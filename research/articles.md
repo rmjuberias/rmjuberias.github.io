@@ -6,7 +6,15 @@ permalink: /research/articles/
 
 <h1> Journal Articles </h1>
 
-0. Cosentino R.G., B. Butler, B. Sault, R. Morales-Juberías, A. Simon, I. de Pater (2017). **Atmospheric waves and dynamics beneath Jupiters clouds from radio wavelength observations.** *Icarus In Press.*
+0. Johnson P. E., R. Morales-Juberías, A. Simon, P. Gaulme , M. H. Wong, R. G.Cosentino (2018). **Longitudinal variability in Jupiter's zonal winds derived from multi-wavelength HST observations.** Planetary & Space Science. In Press.
+
+0. Cosentino, R. G., R. Morales-Juberías, T. Greathouse, G. S. Orton, P. Johnson, L. Fletcher, A. A. Simon (2017). **New Observations and Modeling of Jupiter's Quasi-Quadrienial Oscillation.** JGR-Planets 122.
+
+0. Fletcher, L. N., S. Guerlet, G. S. Orton, R. G. Cosentino, T. Fouchet, P. G. J. Irwin, L. Li, F. M. Flasar, N. Gorius, R. Morales-Juberías (2017). **Disruption of Saturn's Quasi-Periodic Equatorial Osicllation by the Great Northern Storm.** Nature Astronomy 1, 765-770.
+
+0. Tollefson J., M. H. Wong, I. de Pater, A. A. Simon, G. S. Orton, J. H. Rogers, S. K. Atreya, R. G. Cosentino, W. Januszewski, R. Morales-Juberías, P. S. Marcus. (2017). **Changes in Jupiter's Zonal Wind Profile preceding and during the Juno mission.** Icarus, Volume 296, p. 163-178.
+
+0. Cosentino R.G., B. Butler, B. Sault, R. Morales-Juberías, A. Simon, I. de Pater (2017). **Atmospheric waves and dynamics beneath Jupiters clouds from radio wavelength observations.** Volume 292, p. 168-181.
 
 0. Simon, A. A.; Rowe, J. F.; Gaulme, P.; Hammel, H. B.; Casewell, S. L.; Fortney, J. J.; Gizis, J. E.; Lissauer, J. J.; Morales-Juberías, R.; Orton, G. S.; Wong, M. H.; Marley, M. S. (2016). **Neptune's Dynamic Atmosphere from Kepler K2 Observations: Implications for Brown Dwarf Light Curve Analyses.** *The Astrophysical Journal*, Volume 817, 162, 10pp
 
