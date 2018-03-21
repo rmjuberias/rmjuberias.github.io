@@ -6,6 +6,8 @@ permalink: /research/press/
 
 <h1> Press </h1>
 
+0. NASA Solves How a Jupiter Jet Stream Shifts into Reverse. <a href="https://www.nasa.gov/feature/goddard/2017/nasa-solves-how-a-jupiter-jet-stream-shifts-into-reverse" target="_blank">NASA Highlight</a> <br> NASA GSFC Highlights. December 2017.
+
 0. An Explanation for Saturn’s Hexagon. <a href="http://aasnova.org/2015/08/21/an-explanation-for-saturns-hexagon/" target="_blank">AAS NOVA</a> <br> Research Highlights from the journals of the American Astronomical Society. 21 August 2015. 
 
 0. Research under way on cause of Jupiter’s red spots. <br>El Defensor Chieftain. Dec. 13, 2006. 
