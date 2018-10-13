@@ -4,7 +4,13 @@ title: Conference Proceedings
 permalink: /research/conferences/
 ---
 
-0. Cosentino, R. G., A. A. Simon, R. Morales-Juberías (2018). Turbulent Cloud Structure and Power Spectrum from 23 years of HST Observations. American Astronomical Society Meeting Abstracts \#231 231, \#144.06. 
+0. Cosentino R., T. Greathouse, A. Simon, R. Morales-Juberías and G. Orton (2018). Comparison of the spatial extent of the QQO from observations and GCM modeling. American Astronomical Society, DPS meeting \#50, id.  3048348
+
+0. Greathouse T., R. Cosentino, G. Orton, R. Morales-Juberías, R. Giles, L. Fletcher, T. Encrenaz, T. Fouchet (2018). Detection of a Warm Thermal Anomaly in Jupiter?s Stratosphere. American Astronomical Society, DPS meeting \#50, id. 3049532
+
+0. Schmider F.X., I. Gonçalves, P. Gaulme, R Morales-Juberías, T. Guillot, J.-P. Rivet, T. Appourchaux, P. Boumier, J. Jackiewicz, T. A. Underwood, D. Voelz, B. Sato, S. Ida, M. Ikoma (2018) First measurements of the Jovian zonal winds profile through visible Doppler spectroscopy. EPSC Abstracts Vol. 12, EPSC2018-433-2, 2018 European Planetary Science Congress  
+
+0. Cosentino R. G., A. A. Simon, R. Morales-Juberías (2018). Turbulent Cloud Structure and Power Spectrum from 23 years of HST Observations. American Astronomical Society Meeting Abstracts \#231 231, \#144.06. 
 
 0. Cosentino R. G. ,A. A. Simon, T. K. Greathouse, L. Fletcher, R. Morales-Juberías, G.S. Orton, P. Johnson (2017). Statistical Estimation of Properties and Variations in Jupiter's Stratospheric Oscillation. AAS/Division for Planetary Sciences Meeting Abstracts \#49 49, 115.05. 
 
