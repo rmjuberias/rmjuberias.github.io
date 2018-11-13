@@ -6,6 +6,8 @@ permalink: /research/articles/
 
 <h1> Journal Articles </h1>
 
+0. Goncalves I., F.X. Schmider, P. Gaulme, R. Morales-Juberías, T. Guillot, J.P. Riveta, T. Appourchaux, P. Boumier, J. Jackiewicz, B. Sato, S. Ida, M. Ikoma, D. Me'karniaa, T. A. Underwoodh, D. Voelzh (2019) **First measurements of Jupiter's zonal winds with visible imaging spectroscopy.** Icarus 319, p. 795-811.
+
 0. Simon A.A., R. Hueso, P. Inurrigarro, A. Sanchez-Lavega, R. Morales-Juberías, R. Cosentino, L.N. Fletcher, M.H. Wong, A.I. Hsu, I. de Pater, G.S. Orton, F. Colas, M. Delcroix, D. Peach, J. Gómez-Forrellad (2018) **Jupiter's Mesoscale Waves Observed at Visible Wavelengths.** The Astronomical Journal 156, 79.
 
 0. Johnson P. E., R. Morales-Juberías, A. Simon, P. Gaulme , M. H. Wong, R. G.Cosentino (2018). **Longitudinal variability in Jupiter's zonal winds derived from multi-wavelength HST observations.** Planetary & Space Science. 155, 2-11 
