@@ -18,6 +18,7 @@ permalink: /teaching/
 * Physics 242 - Computational Physics II
 * Physics 325 - Astrophysics I: Stellar Structure and Evolution 
 * Physics 326 - Astrophysics II: Solar System and Galactic Astronomy 
+* Physics 425 - Astrophysics III: Astrophysical Fluid Dynamics
 * Physics 428 - Climate Physics 
 * Physics 571 - Comparative Study of Planetary Atmospheres 
 * Physics 579 - Graduate-Faculty Seminar 
