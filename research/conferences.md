@@ -4,6 +4,20 @@ title: Conference Proceedings
 permalink: /research/conferences/
 ---
 
+0. Hyder, A., Lyra, W., Chanover, N., Morales-Juberías, R., Jackiewicz, J. (2021.) Vortex Dynamics at the Jovian Pole. AAS/Division for Planetary Sciences Meeting Abstracts.
+
+0. Morales-Juberías, R., Wong, M.H., Legarreta, J., Sánchez-Lavega, A., Simon, A., de Pater, I. (2021.) Numerical Simulations of the Evolution of Neptune's Spot NDS-2018. AAS/Division for Planetary Sciences Meeting Abstracts.
+
+0. Wong, M.~H. and 9 colleagues (2021.) Secondary Features near Neptune's Dark Spot NDS-2018. AAS/Division for Planetary Sciences Meeting Abstracts.
+
+0. Le Beau, R., Farmer, K., Sankar, R., Palotai, C., Morales-Juberias, R. (2020.) What Drives Dark Spot Drift? AAS/Division for Planetary Sciences Meeting Abstracts.
+
+0. Hyder, A., Lyra, W., Chanover, N., Morales-Juberias, R., Jackiewicz, J. (2020.) Vortex Dynamics in the Polar Atmosphere of Jupiter. AAS/Division for Planetary Sciences Meeting Abstracts.
+
+0. Schmider, F.-X. and 12 colleagues (2019.) Jupiter atmospheric dynamics from ground-based Doppler imaging. EPSC-DPS Joint Meeting 2019.
+
+0. Cosentino, R., Simon, A.~A., Morales-Juberias, R. (2018.) Jupiter's Turbulent Power Spectra from Hubble Space Telescope. AGU Fall Meeting Abstracts.
+
 0. Cosentino R., T. Greathouse, A. Simon, R. Morales-Juberías and G. Orton (2018). Comparison of the spatial extent of the QQO from observations and GCM modeling. American Astronomical Society, DPS meeting \#50, id.  3048348
 
 0. Greathouse T., R. Cosentino, G. Orton, R. Morales-Juberías, R. Giles, L. Fletcher, T. Encrenaz, T. Fouchet (2018). Detection of a Warm Thermal Anomaly in Jupiter?s Stratosphere. American Astronomical Society, DPS meeting \#50, id. 3049532
