@@ -5,8 +5,13 @@ permalink: /research/articles/
 ---
 
 <h1> Journal Articles </h1>
+0. Hyder, A., Lyra, W., Chanover, N., Morales-Juberías, R., Jackiewicz, J. (2022.) **Exploring Jupiter's Polar Deformation Lengths with High Resolution Shallow Water Modeling.** arXiv e-prints.
 
-0.  Cosentino, Richard G., Simon, A., Morales-Juberías, R. (2019) **Jupiter's Turbulent Power Spectra From Hubble Space Telescope** Journal of Geophysical Research (Planets) V 124 P 1204-1225.
+0. Morales-Juberías, R., Simon, A.A., Cosentino, R.G. (2022.) **Analysis of the long-term drift rates and oscillations of Jupiter's largest vortices.** Icarus 372.
+
+0. Cosentino, R.G., T. Greathouse, A.A. Simon, R. Giles, R. Morales-Juberías, L.N. Fletcher and G. Orton (2020.) **The Effects of Waves on the Meridional Thermal Structure of Jupiter's Stratosphere.** The Planetary Science Journal 1.  
+
+0.  Cosentino, R.G., Simon, A.A., Morales-Juberías, R. (2019) **Jupiter's Turbulent Power Spectra From Hubble Space Telescope** Journal of Geophysical Research (Planets) V 124 P 1204-1225.
 
 0. Goncalves I., F.X. Schmider, P. Gaulme, R. Morales-Juberías, T. Guillot, J.P. Riveta, T. Appourchaux, P. Boumier, J. Jackiewicz, B. Sato, S. Ida, M. Ikoma, D. Me'karniaa, T. A. Underwoodh, D. Voelzh (2019) **First measurements of Jupiter's zonal winds with visible imaging spectroscopy.** Icarus 319, p. 795-811.
 
