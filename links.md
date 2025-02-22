@@ -8,11 +8,9 @@ permalink: /links/
 
 <h1>Socorro:</h1> 
 
-| <a href="http://physics.nmt.edu" target="_blank"> NMT Physics </a>				||| <a href="http://langmuir.nmt.edu" target="_blank">Langmuir Lab. </a>		|
-| <a href="http://nmtastrocafe.blogspot.com" target="_blank"> NMT Astro Cafe </a>	||| <a href="http://psisafeharbor.org/index.php" target="_blank">Puerto Seguro </a>		|
-| <a href="http://infohost.nmt.edu/~astro/" target="_blank"> NMT Astroclub </a>		||| <a href="http://www.fws.gov/southwest/refuges/newmex/bosque/" target="_blank">Bosque del Apache </a>	|
-| <a href="http://mro.nmt.edu" target="_blank"> MRO </a> 							||| <a href="http://www.friendsofthebosque.org" target="_blank">Friends of the Bosque	</a>|
-| <a href="http://nrao.edu" target="_blank"> NRAO </a>								||| <a href="http://radar.weather.gov/radar.php?rid=abx&product=N0R&overlay=11101111&loop=no" target="_blank">Doppler </a>				|
+| <a href="http://physics.nmt.edu" target="_blank"> NMT Physics </a>				||| <a href="http://nrao.edu" target="_blank"> NRAO </a>			|
+| <a href="http://www.fws.gov/southwest/refuges/newmex/bosque/" target="_blank">Bosque del Apache </a>	||| <a href="http://www.friendsofthebosque.org" target="_blank">Friends of the Bosque	</a> |
+| <a href="http://radar.weather.gov/radar.php?rid=abx&product=N0R&overlay=11101111&loop=no" target="_blank">Doppler </a>	|||                |
 
 <br>
 
