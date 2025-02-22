@@ -19,22 +19,21 @@ permalink: /research/press/
 
 <h1> Seminars </h1>
 
+0. “Observations and Numerical Simulations of Gas Giant Atmospheres”. <br> NSF NOIRLab South Colloquium Series. Building C, AURA Recinto. La Serena, Chile. (11/28/2023)
+
+0. “STEM postgraduate education in the US - Physics, Astronomy and Planetary Sciences”<br> University of La Serena Andres Bello Campus. La Serena, Chile. (11/28/2023)
+
+0. “STEM postgraduate education in the US - Physics, Astronomy and Planetary Sciences”. <br> Instituto de Física y Astronomía (IFA). University of Valparaíso. Valparaíso, Chile. (11/7/2023)
+
+0. “Información sobre estudios de Postgrado (STEM) en USA & NMT (Física & Astrono-
+mía)” <br> Universidad Técnica Federíco Santa María. Valparaíso, Chile. (10/31/2023)
 
 0. “Observaciones y modelos de las atmósferas de los planetas gigantes de nuestro sistema
 solar” <br> Ciclo de Charlas 2023 Programa Doctorado en
 Ciencias Mención Física, Consorciado Universidad de la Serena, Universidad de Tarapaca
-and Universidad de Valparaíso. Valparaíso, Chile. August 29, 2023.
+and Universidad de Valparaíso. Valparaíso, Chile. (8/29/2023)
 
-0. “Información sobre estudios de Postgrado (STEM) en USA & NMT (Física & Astrono-
-mía)” <br> Universidad Técnica Federíco Santa María. Valparaíso, Chile. October 31st, 2023.
-
-0. “STEM postgraduate education in the US - Physics, Astronomy and Planetary Sciences”. <br> Instituto de Física y Astronomía (IFA). University of Valparaíso. Valparaíso, Chile. November 7th, 2023.
-
-0. “Observations and Numerical Simulations of Gas Giant Atmospheres”. <br> NSF NOIRLab South Colloquium Series. Building C, AURA Recinto. La Serena, Chile. Nov. 28, 2023.
-
-0. “STEM postgraduate education in the US - Physics, Astronomy and Planetary Sciences”<br> University of La Serena Andres Bello Campus. La Serena, Chile. Nov. 28, 2023.
-
-0. “Informaci´on sobre estudios de Postgrado (STEM) en USA & NMT” <br> Engineering School of University of Valparaiso. Valparaiso, Chile. August 22nd, 2023.
+0. “Información sobre estudios de Postgrado (STEM) en USA & NMT” <br> Engineering School of University of Valparaiso. Valparaiso, Chile. (8/22/2023)
 
 0. “Interdisciplinary & comparative planetary atmospheres research program”
 <br> Fulbright Enhancement Meeting. Santiago de Chile, Chile. August 4th 2023.
