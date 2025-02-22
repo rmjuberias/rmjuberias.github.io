@@ -5,6 +5,18 @@ permalink: /research/articles/
 ---
 
 <h1> Journal Articles </h1>
+0.Wang, X., Li, L., Guan, L., Jiang, X., Fry, P. M., Dyudina, U. A., et al. (2025). **Spatiotemporal variability of Saturn's zonal winds observed by Cassini.** Journal of Geophysical Research: Planets, 130
+
+0. A Schmider, F.X., Gaulme, P., Morales-Juberias, R., Jackiewicz, J., Goncalves, I., Guillot, T., Simon, A.A., Wong, M. H., Underwood, T., Voelz, D., Sanchez, C.,
+DeColibus, R., Kovac, S. A., Sellers, S., Gilliam, D., Boumier, P., Appourchaux, T., Dejonghe, J., Rivet, J.P., Markham, S., Howard, S., Abe, L., Mekarnia, D., Ikoma, M.,
+Hanayama, H., Sato, B., Kunitomo, M., Izumiura, H. (2024.) **Three-dimensional Atmospheric Dynamics of Jupiter from Ground-based Doppler Imaging Spectroscopy in the Visible.** The Planetary Science Journal. V5. P 100.
+
+0. Irwin, P. G. J., Dobinson, J., James, A., Wong, M. H., Fletcher, L. N., Roman, M. T., Teanby, N. A., Toledo, D., Orton, G. S., Perez-Hoyos, S., Sanchez-Lavega, A., Simon, A., Morales-Juberias, R., de Pater, I. (2023) **Latitudinal Variations in Methane Abundance, Aerosol Opacity and Aerosol Scattering Efficiency in Neptune's Atmosphere Determined From VLT/MUSE.** Journal of Geophysical Research: Planets, Volume 128, Issue 11, article id. e2023JE007980.
+
+0. Irwin P.G.J., Dobinson J., James A., Wong M. H. , Fletcher L. N., Roman M. T.,  Teanby N. A., Toledo D., Orton G. S., Perez-Hoyos S., Sanchez-Lavega A., Sromovsky L., Simon A. A., Morales-Juberias R., de Pater I., and Cook S. L. (2023) **Spectral determination of the colour and vertical structure of dark spots in Neptune's atmosphere.** Nature Astronomy, August 2023.
+
+0. Uriarte, J., Morales-Juber{\'\i}as, R., Clemente, J.A., Antiguedad, I., Morales, T. (2022.) **Assessment of long-term structural movements in a historic cliffside construction through Lomb-Scargle spectral analysis of unevenly spaced time records: The Punta Bego{\~n}a Galleries (Getxo, Spain)** Bulletin of Engineering Geology and the Environment. BOEG-D-22
+
 0. Hyder, A., Lyra, W., Chanover, N., Morales-Juberías, R., Jackiewicz, J. (2022.) **Exploring Jupiter's Polar Deformation Lengths with High Resolution Shallow Water Modeling.** arXiv e-prints.
 
 0. Morales-Juberías, R., Simon, A.A., Cosentino, R.G. (2022.) **Analysis of the long-term drift rates and oscillations of Jupiter's largest vortices.** Icarus 372.

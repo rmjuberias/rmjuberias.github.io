@@ -3,6 +3,41 @@ layout: page
 title: Conference Proceedings
 permalink: /research/conferences/
 ---
+0. Morales-Juberías, R.; Wilson, C.; Lopez-Carrillo, C.; Arechiga, R. (2024). New Mexico Tech
+Here to Observe. NMT NASA partnering program overview. Annual Meeting of the Lunar Exploration Analysis Group. October 28–30, 2024
+Houston, Texas/Virtual. 
+
+0. Morales-Juberías, R. ; Li, L. ; Dowling, T. ; Mercuri, S. ; Simon, Amy (2024). Interactions between opposite signed vortices on adjacent domains in Jupiter. AAS Division for Planetary Sciences meeting #56, id. 103.03. Bulletin of the American Astronomical Society, Vol. 56, No. 8 e-id 2024
+
+0. Wong, M. ; Sromovsky, L. ; Simon, A. ; Irwin, P.; Fry, P. ;
+Morales-Juberias, R. ; Sanchez-Lavega, A. ; Legarreta, J. ; Hueso, R. ;
+de Pater, I. (2024) The dissipation phase of dark spot NDS-2018 on Neptune. AAS
+Division for Planetary Sciences meeting #56, id. 210.03. Bulletin of the American
+Astronomical Society, Vol. 56, No. 8 e-id 2024.
+
+0. Sanchez, C.; Jackiewicz, J.; Morales-Juberias, R.; Schmider, F. X.; Gaulme, P. (2023).
+Measuring the Atmospheric Dynamics and Global Oscillations of Jupiter with the JIVE
+Project. 55th Annual Meeting of the Division for Planetary Sciences, id. 326.04. Bulletin
+of the American Astronomical Society, Vol. 55, No. 8 Bulletin of
+the American Astronomical Society
+
+0. Irwin, P.; Dobinson, J.; James, A.; Wong, M.; Fletcher, L. ; Roman, M.; Teanby, N.;
+Toledo, D.; Orton, G.; Perez-Hoyos, S.; Sanchez-Lavega, A.; Sromovsky, L.; Simon, A.;
+Morales-Juberias, R.; de Pater, I.; Luszcz-Cook, S. (2023) Spatial variations in Neptune’s
+aerosol and methane abundances from VLT/MUSE observations. 55th Annual Meeting
+of the Division for Planetary Sciences, id. 409.04. Bulletin of the American Astronomical
+Society, Vol. 55, No. 8 Bulletin of the American Astronomical
+Society
+
+0. Schmider, F.X.; P. Gaulme, T. Doucot, T. Guillot, S. Markham, J. Jackiewicz , C.
+Sanchez and R. Morales-Juberias (2023). A Visible Imaging Spectrometer dedicated
+to Uranus’ Atmospheric Dynamics and Internal Structure. URANUS FLAGSHIP 2023
+meeting-Pasadena California July 25-27
+
+0. Wong M.H., Simon A.A., Sromovsky L.A., S´anchez-Lavega A., Morales-Juber´ıas R.,
+Irwin P.G.J, Legarreta J., Hueso R., de Pater I. (2022) Hubble Space Telescope Coverage of the Life Cycle of Neptune’s Dark Spot NDS-2018. AGU Meeting procedings. P23B-05.
+
+0. FX Schmider, P Gaulme, T Guillot, J Jackiewicz, R Morales-Juberias (2022). A Doppler Imager for the Atmospheric Dynamics and Internal Structure of Uranus. LPI Contributions 2686, 4016.
 
 0. Hyder, A., Lyra, W., Chanover, N., Morales-Juberías, R., Jackiewicz, J. (2021.) Vortex Dynamics at the Jovian Pole. AAS/Division for Planetary Sciences Meeting Abstracts.
 
