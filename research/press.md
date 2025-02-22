@@ -19,6 +19,26 @@ permalink: /research/press/
 
 <h1> Seminars </h1>
 
+
+0. “Observaciones y modelos de las atmósferas de los planetas gigantes de nuestro sistema
+solar” <br> Ciclo de Charlas 2023 Programa Doctorado en
+Ciencias Mención Física, Consorciado Universidad de la Serena, Universidad de Tarapaca
+and Universidad de Valparaíso. Valparaíso, Chile. August 29, 2023.
+
+0. “Información sobre estudios de Postgrado (STEM) en USA & NMT (Física & Astrono-
+mía)” <br> Universidad Técnica Federíco Santa María. Valparaíso, Chile. October 31st, 2023.
+
+0. “STEM postgraduate education in the US - Physics, Astronomy and Planetary Sciences”. <br> Instituto de Física y Astronomía (IFA). University of Valparaíso. Valparaíso, Chile. November 7th, 2023.
+
+0. “Observations and Numerical Simulations of Gas Giant Atmospheres”. <br> NSF NOIRLab South Colloquium Series. Building C, AURA Recinto. La Serena, Chile. Nov. 28, 2023.
+
+0. “STEM postgraduate education in the US - Physics, Astronomy and Planetary Sciences”<br> University of La Serena Andres Bello Campus. La Serena, Chile. Nov. 28, 2023.
+
+0. “Informaci´on sobre estudios de Postgrado (STEM) en USA & NMT” <br> Engineering School of University of Valparaiso. Valparaiso, Chile. August 22nd, 2023.
+
+0. “Interdisciplinary & comparative planetary atmospheres research program”
+<br> Fulbright Enhancement Meeting. Santiago de Chile, Chile. August 4th 2023.
+
 0. "Jupiter and the Great Red Spot" <br> Jupiter Festival. New Mexico Tech. (3/8/2016)
 
 0. "Numerical Modeling of Saturn's Northern Hexagon as a Meandering Shallow Jet."<br> NRAO Colloquium Series. (10/9/2015)
