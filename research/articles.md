@@ -5,7 +5,8 @@ permalink: /research/articles/
 ---
 
 <h1> Journal Articles </h1>
-0.Wang, X., Li, L., Guan, L., Jiang, X., Fry, P. M., Dyudina, U. A., et al. (2025). **Spatiotemporal variability of Saturn's zonal winds observed by Cassini.** Journal of Geophysical Research: Planets, 130
+
+0. Wang, X., Li, L., Guan, L., Jiang, X., Fry, P. M., Dyudina, U. A., Fletcher L. N., García-Melendo  E., Hueso  R., Morales-Juberías  R., Sánchez-Lavega A., Simon   A. A. (2025). **Spatiotemporal variability of Saturn's zonal winds observed by Cassini.** Journal of Geophysical Research: Planets, 130
 
 0. A Schmider, F.X., Gaulme, P., Morales-Juberias, R., Jackiewicz, J., Goncalves, I., Guillot, T., Simon, A.A., Wong, M. H., Underwood, T., Voelz, D., Sanchez, C.,
 DeColibus, R., Kovac, S. A., Sellers, S., Gilliam, D., Boumier, P., Appourchaux, T., Dejonghe, J., Rivet, J.P., Markham, S., Howard, S., Abe, L., Mekarnia, D., Ikoma, M.,
